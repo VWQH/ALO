@@ -13,5 +13,7 @@ public class AlgorithmsB {
                 System.out.print("#");
             System.out.println();
         }
+
+        System.out.println("OK");
     }
 }
