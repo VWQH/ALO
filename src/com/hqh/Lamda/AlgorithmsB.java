@@ -14,6 +14,6 @@ public class AlgorithmsB {
             System.out.println();
         }
 
-        System.out.println("OK");
+        System.out.println("OKKK");
     }
 }
