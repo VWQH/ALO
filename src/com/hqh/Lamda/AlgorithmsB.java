@@ -3,8 +3,11 @@ package com.hqh.Lamda;
 import java.util.Scanner;
 
 public class AlgorithmsB {
+
+
+
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
+        /*Scanner s = new Scanner(System.in);
         int n = 4;
         for(int i=1;i<=n;i++) {
             for(int j=0;j<n-i;j++)
@@ -14,6 +17,8 @@ public class AlgorithmsB {
             System.out.println();
         }
 
-        System.out.println("KEKE");
+        System.out.println("KEKE");*/
+
+
     }
 }
