@@ -7,11 +7,12 @@ public class TestA {
     }
 
     public static void main(String[] args) {
-        int w = 10;
+        /*int w = 10;
         Draw d =  () -> {
             System.out.println("draw: " + w);
         };
 
-        d.draww();
+        d.draww();*/
+
     }
 }

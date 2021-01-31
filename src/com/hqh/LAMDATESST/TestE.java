@@ -36,7 +36,6 @@ public class TestE {
             System.out.println(p.ID + " " + p.name);
         }
 
-
         Stream<Product> stream = list.stream().filter(p -> p.price > 20000);
         stream.forEach(product -> System.out.println(product.ID));
 
