@@ -7,7 +7,7 @@ public class TestB {
 
     public static void main(String[] args) {
         Say s = () -> {
-            return "OK";
+             return  "OK";
         };
         System.out.println(s.say());
     }
