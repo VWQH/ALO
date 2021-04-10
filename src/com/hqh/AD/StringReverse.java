@@ -5,8 +5,9 @@ import java.util.Scanner;
 
 public class StringReverse {
     public static void main(String[] args) {
+        /*
         Scanner scanner = new Scanner(System.in);
-        /*String A = "madam";
+        String A = "madam";
 
         int a_pointer = 0;
         int b_pointer = A.length()-1;
@@ -18,8 +19,9 @@ public class StringReverse {
             a_pointer++;
             b_pointer--;
         }
-        System.out.println("Yes");*/
+        System.out.println("Yes");
 
+        */
         String a = "hello";
         String b = "olleh";
 
