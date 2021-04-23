@@ -13,7 +13,7 @@ public class Practice5 {
         }
     }
 
-    static int[] shiftArrayRigh(int a[]){
+    static int[] shiftArrayRight(int a[]){
         int[] a2 = new int[a.length];
         for (int i = 0; i < a.length-1; i++) {
             a2[i+1] = a[i];
@@ -25,7 +25,7 @@ public class Practice5 {
 
     public static void main(String[] args) {
         int a[] = {2, 3, 5, 9};
-        int[] newAr = shiftArrayRigh(a);
+        int[] newAr = shiftArrayRight(a);
         printArray(newAr);
     }
 }

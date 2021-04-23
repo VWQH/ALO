@@ -48,7 +48,7 @@ public class Algorithms {
         }
         System.out.println( s1/n + " " + s2/n + " " + s3/n);*/
 
-
+        /*
         int n = 4;
         s.close();
         for(int i=1; i<=n; i++){
@@ -60,6 +60,7 @@ public class Algorithms {
             }
             System.out.println();
         }
+        */
 
     }
 }
