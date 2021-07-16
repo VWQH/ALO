@@ -11,6 +11,7 @@ public class LinkedListExp {
         list.add(5);
         list.add(3);
 
+        list.set(0, 10);
         // list.forEach(s -> System.out.print(s + " "));
         System.out.println(list);
 
